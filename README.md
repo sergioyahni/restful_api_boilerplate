@@ -28,8 +28,4 @@ Basic CRUD operations can be implemented in a straightforward manner, allowing d
 
 ### Conclusion
 
-This Python Flask RESTful API boilerplate serves as an efficient starting point for building scalable web services. With built-in best practices and extensible architecture, it empowers developers to deliver high-quality applications swiftly.
-
---- 
-
-Feel free to modify any sections to better match your specific implementation or goals!
+This Python Flask RESTful API boilerplate serves as an efficient starting point for building scalable web services. Built-in best practices and extensible architecture empower developers to deliver high-quality applications swiftly.
