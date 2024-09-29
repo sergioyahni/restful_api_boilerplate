@@ -1,7 +1,3 @@
-Here’s a boilerplate description for your Python Flask RESTful API using SQLAlchemy as the ORM:
-
----
-
 ## Python Flask RESTful API Boilerplate
 
 ### Overview
